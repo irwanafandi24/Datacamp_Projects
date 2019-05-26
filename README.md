@@ -2,7 +2,7 @@
 
 [![Datacamp](images/datacamp.png)](https://www.datacamp.com/)
 
-#### This are my own repo for set of Datacamp Projects which already been done
+#### This is my own repo for set of Datacamp Projects which already been done
 
 #
 #### About Me: Suryo Tri Atmojo
